@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "fancy-sunset-0cc3",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ce8be720-1c83-4ea2-b9cb-39541374929d",
+      "database_name": "cool-heart-f670-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
